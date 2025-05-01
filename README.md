@@ -3,6 +3,24 @@
 
 ## Overview
 
+Repository Structure:
+
+├── DS542-MIDTERM REPORT.pdf            # Final written report for the midterm challenge
+├── FINAL_PART-3.py                     # Code for Part 3 of the challenge (Best model)
+├── Part-1.py                           # Code implementation for Part 1
+├── Part-2.py                           # Code implementation for Part 2
+├── eval_cifar100.py                    # Evaluation script for CIFAR-100 dataset
+├── eval_ood.py                         # Evaluation script for out-of-distribution (OOD) datasets
+├── requirements.txt                    # Required Python packages
+├── sample_submission.csv               # Sample format for CSV submission
+├── starter_code.py                     # Provided starter code for baseline
+├── submission_ood.csv                  # Part-1 submission CSV
+├── submission_ood2.csv                 # Part-2 submission CSV
+├── submission_ood3_resnet101.csv       # Part-3 best score submission CSV
+├── utils.py                            # Utility functions used across parts
+├── README.md                           # Project overview and instructions
+└── .github/                            # GitHub classroom metadata and config
+
 This repository contains the code for the midterm challenge of the course DS542 Deep Learning for Data Science.
 
 The challenge is in three parts:
@@ -97,3 +115,4 @@ The grading rubric is as follows:
 ## Bonus Points (Optional)
 
 The top 10 students on the Private leaderboard will receive bonus points.
+
