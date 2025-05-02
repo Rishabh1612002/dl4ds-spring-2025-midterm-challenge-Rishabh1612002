@@ -3,7 +3,7 @@
 
 ## Overview
 
-Repository Structure:
+## 📁 Repository Structure
 
 ├── DS542-MIDTERM REPORT.pdf            # Final written report for the midterm challenge
 ├── FINAL_PART-3.py                     # Code for Part 3 of the challenge (Best model)
